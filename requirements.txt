@@ -1,7 +1,7 @@
 cmsplugin-filer
-dj-database-url==0.4.2
+dj-database-url
 Django
-django-admin-sortable2
+django-admin-sortable2==0.6.14
 django-appconf
 django-classy-tags
 django-cms
